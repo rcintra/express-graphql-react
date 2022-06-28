@@ -1,8 +1,13 @@
+import Header from "./components/Header";
+
 function App() {
   return (
-    <div className="App">
-      <h1>Client React</h1>
-    </div>
+    <>
+      <Header />
+      <div className="container">
+        <h1>Client React</h1>
+      </div>
+    </>
   );
 }
 
