@@ -33,4 +33,4 @@ npm start
 - GraphiQL URL - <http://localhost:5000/graphql>
 - React App - <http://localhost:3000>
 
-[Queries & Mutations Gist](https://gist.github.com/rcintra/express-graphql-react/master/server/graphql-queries-mutations.md)
+[Queries & Mutations Gist](https://gist.github.com/rcintra/5e66e55c7f601caaf7366257b14cbc33)
