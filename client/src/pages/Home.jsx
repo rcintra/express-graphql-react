@@ -1,4 +1,5 @@
 import React from 'react'
+import AddProjectModal from '../components/AddProjectModal';
 import Projects from '../components/Projects';
 
 export default function Home() {
@@ -6,7 +7,7 @@ export default function Home() {
     <>
         <div className="d-flex gap-3 mb-4">
             { 
-                // Modal 
+              <AddProjectModal />
             }
         </div>        
         <Projects />
